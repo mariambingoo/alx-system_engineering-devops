@@ -2,3 +2,4 @@
 # A Bash script that runs the whoami command on the the first argument passed
 # to it.
 sudo -u "$1" whoami
+
